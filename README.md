@@ -12,7 +12,7 @@
 
 # 示例
 
-    perl save_ebook.pl -s ebook.xxx.com -u someusr -p somepasswd -r '/var/www/ebook' -e 'data' \
+    perl save_ebook.pl -s ebook.xxx.com -u someusr -p somepwd -r /var/www/ebook -e data \
                 -d 1971 -w 古龙 -b 欢乐英雄 -f 古龙-欢乐英雄.mobi \
                 -t 郭大路,王动 -c 武侠 -m 英雄是欢乐的
 
